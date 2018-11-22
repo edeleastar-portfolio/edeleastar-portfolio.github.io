@@ -1,0 +1,21 @@
+title: 'Portfolio of Recent Modules'
+
+courseGroups:
+
+  - title: 'Introductory'
+    modules:
+      - introductory/web-site-dev
+      - introductory/web-app-dev-js
+      - introductory/web-app-dev-java
+
+  - title: 'Intermediate'
+    modules:      
+      - intermediate/node-web-app-dev
+      - intermediate/android-app-dev-kotlin
+      - intermediate/android-app-dev
+
+  - title: 'Advanced'
+    modules:
+      - advanced/agile-soft-dev
+      - advanced/design-patterns
+      - advanced/design-patterns-with-enterprise-arch
